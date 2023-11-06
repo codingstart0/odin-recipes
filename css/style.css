@@ -1,4 +1,18 @@
 body {
+  padding: 0em;
+  background-color: #262a32;
+  background-image: url(../img/slicing-a-lemon-in-half.jpg);
+  background-size: cover;
+  background-position: top center;
   text-align: center;
   color: #655bd0;
 }
+
+
+ul {
+  list-style: none;
+}
+
+/* p {
+  margin-bottom: 15em;
+} */
